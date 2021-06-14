@@ -1,0 +1,56 @@
+Oficina Aula 1
+
+Devido os diferentes requisitos necessários para codificação de aplicações web, por exemplo,
+ as diferentes regras de negócio, armazenamento seguro de informações e transações, faz-se 
+ necessário um ambiente que seja capaz de suprir todas essas necessidades.
+
+Sendo assim, o Java web propõe uma especificação que prove todos os requisitos necessários 
+para criação de aplicações em diferentes cenários e com diferentes requisitos, facilitando e
+ agilizando a criação de um ambiente web.
+
+Nesta oficina, utilizando como base os passos que foram aprendidos durante a webaula, com a
+ criação de uma loja virtual, para exercitar o que foi aprendido, você deve criar um novo 
+ projeto web que conterá a página de uma clínica médica, em que:
+
+    A primeira página deve conter uma apresentação dos serviços e as especializações da
+     clínica em questão. Adicione também uma imagem abaixo da descrição.
+     
+    A segunda deverá listar no mínimo três especialidades médicas que a clínica
+     disponibiliza, além do dia, do horário e do nome do médico que atende a esta 
+     especialidade.
+     
+    A terceira deve apresentar o contato da clínica. Você também deverá fazer com que os 
+    usuários possam navegar entre as três páginas.
+
+Bom desempenho!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
