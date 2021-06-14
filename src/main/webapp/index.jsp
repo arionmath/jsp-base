@@ -10,7 +10,8 @@
 
 <body>
 	<div id = "header">
-	HEALTH CARE LEAF
+	
+	<h2 id = "title"> HEALTH CARE LEAF </h2>
 
 		<div id="menu-bar">
 			
@@ -38,11 +39,17 @@
 	</div>
 
 	<div id = image>
-	<img src="/images/surgery.png"/> 
+	<!--  <img src="/images/surgery.png"/>    --> 
 	
 	
 	</div>
 
+	<div id = footer>
+	
+	Development by Arion Mathias<br>
+	2021
+	
+	</div>
 
 </body>
 </html>
